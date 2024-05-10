@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soukarya Mukherjee
-- 👀 I’m interested in Data Science and Python.
+- 👀  I’m interested in Python programming,Java Programming,C programming,MySQL and Machine Learning.
 - 🌱 I’m currently at BTECH 3rd year
 - 💞️ I’m looking to collaborate on Data Science projects and Open Source projects
 - 📫 How to reach me soukaryamukherjee446@gmail.com
