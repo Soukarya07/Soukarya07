@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Data Science projects and Open Source projects
 - 📫 How to reach me soukaryamukherjee446@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My life is a joke.
+- ⚡ Fun fact: I am still thinking
